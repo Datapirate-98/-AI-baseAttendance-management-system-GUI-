@@ -178,9 +178,9 @@ class arch:
                     cv2.imshow('Video', img)
                 if cv2.waitKey(1) & 0xFF == ord('q'):
                     #list_joint = face_names + subject + room
-                    subject = subject * len(face_names)
+                    subjects = subject * len(face_names)
                     room = room * len(face_names)
-                    dict = {"Name":face_names, "Subject":subject, "Classroom":room}
+                    dict = {"Name":face_names, "Subject":subjects, "Classroom":room}
                     df = pd.DataFrame(dict)
                     df.to_csv(str(subject) + ".csv", index = False)
                     break
