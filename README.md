@@ -13,4 +13,7 @@
 ----> must provide credits(datapirate-98) when uses it...
 
 
+----> you can increase the fps of webcam by python threading soon i will be uploading the code of it...
+
+
 **anybody interested can provide with the .exe file just install in your system and use it.**
