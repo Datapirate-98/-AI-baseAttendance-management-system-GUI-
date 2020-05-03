@@ -187,8 +187,8 @@ class Toplevel1:
             messagebox.showinfo("Error", "Invalid Subject or Room")
         else:
             messagebox.showinfo("Done", "Mail Sent!")
-        email_user = 'ss6239@srmist.edu.in'
-        email_password = 'SRMWorld@#9800637'
+        email_user = 'YOUR_MAILID'
+        email_password = 'YOUR_MAILID_PASSWORD'
         email_send = MailId
 
         mail_subject = 'Attendance of your class'
