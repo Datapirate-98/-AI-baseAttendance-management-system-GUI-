@@ -1,5 +1,7 @@
 # AI-based-Attendance-magement-system-GUI-
 
+![](/UI-Attendance_system.PNG)
+
  **STEPS TO FOLLOW**
                                                     
                                                     
@@ -17,3 +19,4 @@
 
 
 **anybody interested can provide with the .exe file just install in your system and use it.**
+
