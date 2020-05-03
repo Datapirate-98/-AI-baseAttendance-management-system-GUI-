@@ -4,7 +4,7 @@
                                                     
                                                     
 ----> A simple GUI based attendance system using face recognition and AI algorithim
-----> just run the demo.py and use the app
+----> just run the main.py and use the app
 ----> before that run pip install requirements.txt in your CMD or terminal
 ----> also make a directory faces inside your working folder and put your own images there.
 ----> then run the above mentioned file
